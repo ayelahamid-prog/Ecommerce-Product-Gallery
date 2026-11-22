@@ -20,4 +20,4 @@ A responsive E-Commerce Product Gallery created using HTML and CSS Grid.
 - GitHub
 
 ## Author
-Your Name
+Ayela Hamid
